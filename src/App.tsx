@@ -1,5 +1,11 @@
+import CardContainer from './sections/CardContainer/CardContainer'
+
 function App() {
-  return <div></div>
+  return (
+    <main>
+      <CardContainer />
+    </main>
+  )
 }
 
 export default App
